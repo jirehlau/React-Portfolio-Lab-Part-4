@@ -1,2 +1,1 @@
-# React-Portfolio-Lab-Part-4
-Adding separate pages
+# React-Portfolio-Lab-Part-2
